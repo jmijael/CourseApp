@@ -1,0 +1,6 @@
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\bin\Release\CoursesApp.Entity.dll
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\bin\Release\CoursesApp.Entity.pdb
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Release\CoursesApp.Entity.csprojAssemblyReference.cache
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Release\CoursesApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Release\CoursesApp.Entity.dll
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Release\CoursesApp.Entity.pdb

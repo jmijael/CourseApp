@@ -1,0 +1,14 @@
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\CoursesApp.DataEF.dll.config
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\CoursesApp.DataEF.dll
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\CoursesApp.DataEF.pdb
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\CoursesApp.Entity.dll
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\EntityFramework.dll
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\CoursesApp.Entity.pdb
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\EntityFramework.xml
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\obj\Debug\CoursesApp.DataEF.csprojAssemblyReference.cache
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\obj\Debug\CoursesApp.DataEF.csproj.CoreCompileInputs.cache
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\obj\Debug\CoursesApp.DataEF.csproj.CopyComplete
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\obj\Debug\CoursesApp.DataEF.dll
+C:\Users\Mijael\source\repos\CoursesApp\CourseApp.DataEF\obj\Debug\CoursesApp.DataEF.pdb

@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>Student</h1>
+        @foreach (var item in ViewBag.Students)
+        {
+            <div>
+                Id: <label>@item.Id</label><br />
+                Name: <label>@item.Name</label><br />
+                <hr />
+            </div>
+        }
+    </div>
+</body>
+</html>

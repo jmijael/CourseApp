@@ -1,0 +1,9 @@
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\bin\Debug\CoursesApp.Data.dll
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\bin\Debug\CoursesApp.Data.pdb
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\bin\Debug\CoursesApp.Entity.dll
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\bin\Debug\CoursesApp.Entity.pdb
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.csprojAssemblyReference.cache
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.csproj.CopyComplete
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.dll
+C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.pdb
