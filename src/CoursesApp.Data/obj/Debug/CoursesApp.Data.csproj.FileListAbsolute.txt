@@ -7,3 +7,12 @@ C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Dat
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.csproj.CopyComplete
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.dll
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Data\obj\Debug\CoursesApp.Data.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\bin\Debug\CoursesApp.Data.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\bin\Debug\CoursesApp.Data.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\bin\Debug\CoursesApp.Entity.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\bin\Debug\CoursesApp.Entity.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\obj\Debug\CoursesApp.Data.csprojAssemblyReference.cache
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\obj\Debug\CoursesApp.Data.csproj.CoreCompileInputs.cache
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\obj\Debug\CoursesApp.Data.csproj.CopyComplete
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\obj\Debug\CoursesApp.Data.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Data\obj\Debug\CoursesApp.Data.pdb

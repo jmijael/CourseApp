@@ -1,14 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="StudentView.aspx.cs" Inherits="CoursesApp.Views.StudentView" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="StudentView.aspx.cs" Inherits="CoursesApp.Views.StudentView" MasterPageFile="~/Site.Master" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
         <div>
             <h1>Student List</h1>
             <asp:Repeater id="Repeater1" OnItemDataBound="R1_ItemDataBound" runat="server">
@@ -27,6 +19,4 @@
              
            </asp:Repeater>
         </div>
-    </form>
-</body>
-</html>
+</asp:Content>

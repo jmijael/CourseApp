@@ -1,17 +1,7 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CourseView.aspx.cs" Inherits="CoursesApp.Views.CourseView" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CourseView.aspx.cs" Inherits="CoursesApp.Views.CourseView" MasterPageFile="~/Site.Master"%>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
-<body>
-    
-        <form id="form1" runat="server">
-            <asp:ScriptManager runat="server">
-            </asp:ScriptManager>    
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+            
             <div>
                 <h1>Course Edit</h1>
                 <hr />
@@ -40,7 +30,4 @@
                 <asp:Button runat="server" Text="New" ID="btNew" OnClick="btNew_Click"></asp:Button>
                 <asp:Button runat="server" Text="Save" ID="btSave" OnClick="btSave_Click"></asp:Button>
             </div>
-        </form>
-    
-</body>
-</html>
+</asp:Content>
