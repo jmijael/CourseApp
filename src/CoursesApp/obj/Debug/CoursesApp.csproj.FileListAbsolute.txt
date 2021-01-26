@@ -112,3 +112,17 @@ F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\obj\Debug\CoursesApp.csproj
 F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\obj\Debug\CoursesApp.csproj.CopyComplete
 F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\obj\Debug\CoursesApp.dll
 F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\obj\Debug\CoursesApp.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\System.Threading.Tasks.Extensions.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\System.Threading.Tasks.Extensions.xml
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.AspNet.WebFormsDependencyInjection.Unity.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Unity.Abstractions.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Unity.Container.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp\bin\Microsoft.AspNet.WebFormsDependencyInjection.Unity.xml

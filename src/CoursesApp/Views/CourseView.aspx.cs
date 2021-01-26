@@ -11,13 +11,19 @@ namespace CoursesApp.Views
 {
     public partial class CourseView : System.Web.UI.Page
     {
-        private CourseData courseData;
+        private ICourseRepository courseRepo;
+        private ICourseFactory courseFact;
+        public CourseView(ICourseRepository pcourseRepo, ICourseFactory pcourseFact)
+        {
+            courseRepo = pcourseRepo;
+            courseFact = pcourseFact;
+        }
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            courseData = new CourseData();
             if (!IsPostBack)
             {
-                ddlCourse.DataSource = courseData.List();
+                ddlCourse.DataSource = courseRepo.List();
                 ddlCourse.DataBind();
                 ddlCourse.SelectedIndex = -1;
                 tbId.Text = "0";
@@ -42,10 +48,12 @@ namespace CoursesApp.Views
         {
             try
             {
-                CCourse currentCourse = new CCourse(int.Parse(tbId.Text), tbName.Text);
-                if (courseData.Save(currentCourse))
+                var currentCourse = courseFact.CreateNew();
+                currentCourse.Id = int.Parse(tbId.Text);
+                currentCourse.Name = tbName.Text;
+                if (courseRepo.Save(currentCourse))
                 {
-                    ddlCourse.DataSource = courseData.List();
+                    ddlCourse.DataSource = courseRepo.List();
                     ddlCourse.DataBind();
                 }
             }

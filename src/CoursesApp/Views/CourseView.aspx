@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CourseView.aspx.cs" Inherits="CoursesApp.Views.CourseView" MasterPageFile="~/Site.Master"%>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CourseView.aspx.cs" Inherits="CoursesApp.Views.CourseView" MasterPageFile="~/Site.Master" Debug="true" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
             

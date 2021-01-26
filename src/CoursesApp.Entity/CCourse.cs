@@ -19,4 +19,9 @@ namespace CoursesApp.Entity
             Name = _Name;
         }
     }
+    public interface ICourseRepository
+    {
+        List<CCourse> List();
+        bool Save(CCourse value);
+    }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CoursesApp.Data
 {
-    public class StudentData : Data
+    public class StudentData : Data, IStudentRepository
     {
         public StudentData() : base()
         {

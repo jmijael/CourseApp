@@ -9,7 +9,7 @@ using System.Configuration;
 
 namespace CoursesApp.Data
 {
-    public class CourseData: Data
+    public class CourseData: Data,ICourseRepository
     {
         public CourseData() : base()
         {

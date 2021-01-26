@@ -11,14 +11,17 @@ namespace CoursesApp.Views
 {
     public partial class StudentView : System.Web.UI.Page
     {
-        private StudentData studentData;
+        private IStudentRepository studentRepo;
+        public StudentView(IStudentRepository pstudentRepo)
+        {
+            studentRepo = pstudentRepo;
+        }
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
             {
-                studentData = new StudentData();
 
-                Repeater1.DataSource = studentData.List();
+                Repeater1.DataSource = studentRepo.List();
                 Repeater1.DataBind();
             }
         }

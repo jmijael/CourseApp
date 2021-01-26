@@ -4,3 +4,9 @@ C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Debug\CoursesApp.E
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.dll
 C:\Users\Mijael\source\repos\CoursesApp\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\bin\Debug\CoursesApp.Entity.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\bin\Debug\CoursesApp.Entity.pdb
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.csprojAssemblyReference.cache
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.csproj.CoreCompileInputs.cache
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.dll
+F:\Entropyzero\example\Code\CourseApp\src\CoursesApp.Entity\obj\Debug\CoursesApp.Entity.pdb

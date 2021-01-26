@@ -27,4 +27,8 @@ namespace CoursesApp.Entity
             CourseCount = _CourseCount;
         }
     }
+    public interface IStudentRepository
+    {
+        List<CStudent> List();
+    }
 }
